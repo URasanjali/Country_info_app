@@ -1,12 +1,11 @@
 {
   "expo": {
-   
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash1.png",
+      
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -15,13 +14,16 @@
     },
     "android": {
       "adaptiveIcon": {
-
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.uresha.countryinfoapp"
     },
-    "web": {
-
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "a7bdf2b1-e657-41fa-a221-3dd3a104d2df"
+      }
     }
   }
 }

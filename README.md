@@ -8,24 +8,27 @@ A React Native app that fetches and displays detailed country information using 
 
 1. Clone the repository:  
    `git clone https://github.com/URasanjali/Country_info_app`  
-2. Open in VS Code  
-3. Run `npm install`  
-4. Run `npx expo start`
+2. Open in VS Code 
+3. Run `npm install expo`
+4. Run `npm install`  
+5. Run `npx expo start`
+6. Press a for android or follow the instructions in the console
+7. press R for reload
 
 ---
 
 ## Screenshots
 
 ### Splash Screen  
-![Splash Screen](./screenshots/splash.png)
+![Splash Screen](./screenshots/splash.jpg)
 
 ### Light Theme  
-![Home Screen](./screenshots/home1.png)  
-![Details Screen](./screenshots/details1.png)
+![Home Screen](./screenshots/home1.jpg)  
+![Details Screen](./screenshots/details1.jpg)
 
 ### Dark Theme  
-![Home Screen](./screenshots/home2.png)  
-![Details Screen](./screenshots/details2.png)
+![Home Screen](./screenshots/home2.jpg)  
+![Details Screen](./screenshots/details2.jpg)
 
 ---
 
@@ -39,3 +42,6 @@ A React Native app that fetches and displays detailed country information using 
 - Search option with suggestions.
 - Switch between light and dark theme.
 
+## Assumptions 
+- Have an emulator already start 
+- download  and install expo go app(not nessesary but it would be easy)
